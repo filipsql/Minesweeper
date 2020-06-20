@@ -1,0 +1,22 @@
+.cell{
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+  border: 1px solid white;
+  line-height: 30px;
+  vertical-align: top;
+  transition: all 0.2s;
+}
+
+.cell:hover {
+  background-color: #BDBDBD;
+}
+
+.close {
+  background-color: #E0E0E0;
+}
+
+
+.open {
+  background-color: #9E9E9E;
+}
